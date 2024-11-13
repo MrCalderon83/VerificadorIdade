@@ -28,3 +28,14 @@ footer {
 
 
 }
+
+#res {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 16px;
+  }
+  #res img {
+    max-width: 200px;
+    margin: 0 auto;
+  }
